@@ -1,4 +1,4 @@
-i# Kadivi
+# Kadivi
 A collaborative DevOps repo.
 
 First task

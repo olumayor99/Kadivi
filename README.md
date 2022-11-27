@@ -12,6 +12,7 @@ Add your names/nicknames below the line. Kindly use single line spacing. You nee
 3. Create a simple bash script named YOUR-USERNAME.sh. This script should output "My username is YOUR-USERNAME" when it is run.
 4. For advanced or experienced users of bash scripting, assume that you don't know the install location or path of the bash script on the target machine. Let the bash script refect this.
 5. Your submission will contain three files - LICENSE, README.md, and YOUR-USERNAME.sh.
+6. No Pull Requests please. Just notify me in the group after you've pushed your solution to your branch.
 
 
 

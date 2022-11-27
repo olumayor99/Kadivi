@@ -1,2 +1,2 @@
 #!/bin/sh
-echo $(basename -s .sh "$0")
+echo My username is $(basename -s .sh "$0")

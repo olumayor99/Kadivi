@@ -1,3 +1,3 @@
 #!/bin/bash
-USERNAME="ifyokeibunor"
+USERNAME="Daniel"
 echo "Your username is" $USERNAME
